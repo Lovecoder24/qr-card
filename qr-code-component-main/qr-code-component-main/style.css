@@ -1,0 +1,35 @@
+body{
+    background-color:  hsl(212, 45%, 89%);
+   align-items: center;
+    display:flex;
+    flex-direction:column;
+    padding: 40px;
+
+}
+.textbody{
+    background-color:;
+    font-size: 12px;
+    font-family: tahoma;
+    display:flex;
+    flex-direction:column;
+
+
+}
+.main{
+    width:250px;
+    height:400px;
+    background:white;
+    flex-direction:column;
+    padding: 20px 20px 20px 20px;
+    display:flex;
+    border-radius:25px;
+    
+
+}
+
+    
+p{
+    font-family:tahoma;
+    font-size: 15px;
+    font-family:cursive;
+}
